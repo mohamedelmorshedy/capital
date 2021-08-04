@@ -87,12 +87,12 @@ body {
   padding: 70px;
   margin-bottom: -2px;
   margin-top: -2px;
-  background-color: black;
-  color: aliceblue;
+  background-color: rgb(184, 179, 179);
+  color: rgb(12, 12, 12);
 }
 .p2 {
-  font-weight: normal;
-  color: aliceblue;
+  font-weight: bold;
+  color: rgb(15, 15, 15);
   font-size: 16px;
 }
 .img3 {
